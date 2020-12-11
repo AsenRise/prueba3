@@ -78,7 +78,7 @@ public class Apuesta {
     }
     //ahora vamos a probar a la inversa, haciendo un pull.
     public void mensaje2(){
-    system.out.println("ADIOS");
+    System.out.println("ADIOS");
     }
 }
 
