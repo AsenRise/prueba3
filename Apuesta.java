@@ -72,7 +72,10 @@ public class Apuesta {
     }
 
 
-
+//vamos a meter algo a ver si funca esta movida
+    public void mensajeUsuario(){
+        System.out.println("Hola");
+    }
 }
 
 
