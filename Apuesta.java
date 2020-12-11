@@ -76,6 +76,10 @@ public class Apuesta {
     public void mensajeUsuario(){
         System.out.println("Hola");
     }
+    //ahora vamos a probar a la inversa, haciendo un pull.
+    public void mensaje2(){
+    system.out.println("ADIOS");
+    }
 }
 
 
